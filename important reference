@@ -1,2 +1,5 @@
 https://www.geeksforgeeks.org/strftime-function-in-c/
 https://www.geeksforgeeks.org/exec-family-of-functions-in-c/ //can be used to create virus,that spread itself
+https://www.geeksforgeeks.org/using-sizof-operator-with-array-paratmeters/  //whwne an array is passed in a function
+//is passed as pointer,so,its size is always equall to size of data type,sizeof(arr)/sizeof(arr[0])
+//is always equall to 1 inside the function with array as arguments
