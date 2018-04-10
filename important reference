@@ -3,3 +3,9 @@ https://www.geeksforgeeks.org/exec-family-of-functions-in-c/ //can be used to cr
 https://www.geeksforgeeks.org/using-sizof-operator-with-array-paratmeters/  //whwne an array is passed in a function
 //is passed as pointer,so,its size is always equall to size of data type,sizeof(arr)/sizeof(arr[0])
 //is always equall to 1 inside the function with array as arguments
+
+////Assigning any address to an array variable is not allowed.
+////Array name gives address of first element of array.
+https://www.geeksforgeeks.org/difference-pointer-array-c/
+////variable size 2d array
+https://www.geeksforgeeks.org/dynamically-allocate-2d-array-c/
