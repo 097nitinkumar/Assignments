@@ -13,7 +13,7 @@ int main()
 	int n;
 	cin>>n;
 	static int j=1;
-	for (int i = 0; i <= n; i++) 
+	for (int i = 0; i < n; i++) 
 	{
 	    if(i==j)
 	    {
